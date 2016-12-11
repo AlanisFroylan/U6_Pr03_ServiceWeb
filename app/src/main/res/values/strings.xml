@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">U6_Pr03_ServiceWeb</string>
+    <string name="ingresaa">ES necesario ingresar %1s</string>
+    <string name="marca_del_auto">Marca del auto</string>
+</resources>
